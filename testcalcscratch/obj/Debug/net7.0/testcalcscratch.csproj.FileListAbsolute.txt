@@ -1,0 +1,15 @@
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\bin\Debug\net7.0\testcalcscratch.exe
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\bin\Debug\net7.0\testcalcscratch.deps.json
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\bin\Debug\net7.0\testcalcscratch.runtimeconfig.json
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\bin\Debug\net7.0\testcalcscratch.dll
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\bin\Debug\net7.0\testcalcscratch.pdb
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\obj\Debug\net7.0\testcalcscratch.csproj.AssemblyReference.cache
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\obj\Debug\net7.0\testcalcscratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\obj\Debug\net7.0\testcalcscratch.AssemblyInfoInputs.cache
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\obj\Debug\net7.0\testcalcscratch.AssemblyInfo.cs
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\obj\Debug\net7.0\testcalcscratch.csproj.CoreCompileInputs.cache
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\obj\Debug\net7.0\testcalcscratch.dll
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\obj\Debug\net7.0\refint\testcalcscratch.dll
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\obj\Debug\net7.0\testcalcscratch.pdb
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\obj\Debug\net7.0\testcalcscratch.genruntimeconfig.cache
+C:\Users\troyh\source\repos\testcalcscratch\testcalcscratch\obj\Debug\net7.0\ref\testcalcscratch.dll
